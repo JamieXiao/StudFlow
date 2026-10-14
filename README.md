@@ -6,7 +6,9 @@ Enough rambling, let your studies take the flow.
 ## Features
 Choose your make break time and alarm preferences.
 ![alt text](image.png)
+
 Keep the window in the background while you study.
 ![alt text](image-2.png)
+
 Solve a simple problem to keep the alarm down.
 ![alt text](image-1.png)
