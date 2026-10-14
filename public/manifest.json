@@ -1,0 +1,19 @@
+{
+  "short_name": "StudFlow",
+
+  "manifest_version": 3,
+  "name": "StudFlow",
+  "version": "1.0",
+  "description": "Description",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "StudFlow"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["storage", "windows"],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self'"
+  }
+}
