@@ -4,7 +4,7 @@
   "manifest_version": 3,
   "name": "StudFlow",
   "version": "1.0",
-  "description": "Description",
+  "description": "Confirm your in the flow while studying with StudFlow. It makes sure you're not asleep or absent for more than a period of time.",
   "action": {
     "default_popup": "index.html",
     "default_title": "StudFlow"
